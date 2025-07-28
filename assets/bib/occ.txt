@@ -1,0 +1,9 @@
+@misc{ding2023multiscaleocc4thplace,
+      title={Multi-Scale Occ: 4th Place Solution for CVPR 2023 3D Occupancy Prediction Challenge}, 
+      author={Yangyang Ding and Luying Huang and Jiachen Zhong},
+      year={2023},
+      eprint={2306.11414},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2306.11414}, 
+}

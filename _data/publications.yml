@@ -1,22 +1,24 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "GestureHYDRA: Semantic Co-speech Gesture Synthesis via Hybrid Modality Diffusion Transformer and Cascaded-Synchronized Retrieval-Augmented Generation"
+    authors: <strong>Quanwei Yang*</strong>, <strong>Luying Huang*</strong>, <strong>Kaisiyuan Wang†</strong>, Jiazhi Guan, Shengyi He, Fengluo Li, Hang Zhou, Lingyun Yu, Yingying Li, Haocheng Feng, <strong>Hongtao Xie†</strong> (*Equal Contribution, †Corresponding Author)
+    # <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+    conference_short: ICCV
+    conference: IEEE InternationalConference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://mumuwei.github.io/GestureHYDRA/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/pipeline_iccv.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Multi-Scale Occ: 4th Place Solution for CVPR 2023 3D Occupancy Prediction Challenge"
+    authors: <strong>Yangyang Ding*</strong>, <strong>Luying Huang*</strong>, Jiachen Zhong (*Equal Contribution)
+    # conference_short: CVPR Workshop Challenge
+    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: https://opendrivelab.github.io/Challenge%202023/Track_3_occ-heiheihei.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: ./assets/bib/occ.txt
+    image: ./assets/img/methods-occ.png
+    page: https://opendrivelab.com/challenge2023/
+    # notes: Early Accept
