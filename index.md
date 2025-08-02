@@ -6,7 +6,7 @@ layout: homepage
 
 I am currently a researcher of Baidu VIS. I received my B.S. & M.S. degree from Tongji University, School of Automotive Engineering.
 
-Since 2024, I have been working at Department of Computer Vision Technology (VIS), Baidu Inc, working closely with [Kaisiyuan Wang](https://unibruce.github.io) and [Hang Zhou](https://hangz-nju-cuhk.github.io) on both audio/video-driven high-fidelity and efficient human video synthesis techniques. Previously, I also had a pleasant work experience at Intelligent Driving Group (IDG), Baidu Inc, working on End-to-End(e2e) Autonomous Driving.
+Since 2024, I have been working at Department of Computer Vision Technology (VIS), Baidu Inc, working closely with [Hang Zhou](https://hangz-nju-cuhk.github.io) and [Kaisiyuan Wang](https://unibruce.github.io) on both audio/video-driven high-fidelity and efficient human video synthesis techniques. Previously, I also had a pleasant work experience at Intelligent Driving Group (IDG), Baidu Inc, working on End-to-End(e2e) Autonomous Driving.
 
 ## Research Interests
 

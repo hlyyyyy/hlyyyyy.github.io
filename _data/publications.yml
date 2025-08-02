@@ -5,10 +5,10 @@ main:
     # <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
     conference_short: ICCV
     conference: IEEE InternationalConference on Computer Vision <strong>(ICCV)</strong>, 2025.
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: https://www.arxiv.org/pdf/2507.22731
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://mumuwei.github.io/GestureHYDRA/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: ./assets/bib/gesturehydra.txt
     # notes: Oral Presentation
     image: ./assets/img/pipeline_iccv.png
 
