@@ -19,4 +19,4 @@ My research interests include both human-centric (e.g., Human Video Synthesis an
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}
