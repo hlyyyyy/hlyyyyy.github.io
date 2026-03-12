@@ -1,0 +1,9 @@
+@misc{guan2026displaydirectablehumanobjectinteraction,
+      title={DISPLAY: Directable Human-Object Interaction Video Generation via Sparse Motion Guidance and Multi-Task Auxiliary}, 
+      author={Jiazhi Guan and Quanwei Yang and Luying Huang and Junhao Liang and Borong Liang and Haocheng Feng and Wei He and Kaisiyuan Wang and Hang Zhou and Jingdong Wang},
+      year={2026},
+      eprint={2603.09883},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.09883}, 
+}
