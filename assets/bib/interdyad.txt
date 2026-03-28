@@ -1,0 +1,9 @@
+@misc{pan2026interdyadinteractivedyadicspeechtovideo,
+      title={InterDyad: Interactive Dyadic Speech-to-Video Generation by Querying Intermediate Visual Guidance}, 
+      author={Dongwei Pan and Longwei Guo and Jiazhi Guan and Luying Huang and Yiding Li and Haojie Liu and Haocheng Feng and Wei He and Kaisiyuan Wang and Hang Zhou},
+      year={2026},
+      eprint={2603.23132},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.23132}, 
+}

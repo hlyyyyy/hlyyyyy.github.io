@@ -11,7 +11,7 @@ main:
     bibtex: ./assets/bib/gesturehydra.txt
     # notes: Oral Presentation
     image: ./assets/img/pipeline_iccv.png
-  
+
   - title: "DISPLAY: Directable Human-Object Interaction Video Generation via Sparse Motion Guidance and Multi-Task Auxiliary"
     authors: Jiazhi Guan*, Quanwei Yang*, Luying Huang, Junhao Liang, Borong Liang, Haocheng Feng, Wei He, Kaisiyuan Wang†, Hang Zhou†, Jingdong Wang (*Equal Contribution, †Corresponding Author)
     # <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
@@ -23,6 +23,18 @@ main:
     bibtex: ./assets/bib/display.txt
     # notes: Oral Presentation
     image: ./assets/img/pipe_display.png
+  
+  - title: "InterDyad: Interactive Dyadic Speech-to-Video Generation by Querying Intermediate Visual Guidance"
+    authors: Dongwei Pan, Longwei Guo, Jiazhi Guan, Luying Huang, Yiding Li, Haojie Liu, Haocheng Feng, Wei He, Kaisiyuan Wang, Hang Zhou
+    # <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+    # conference_short: ICCV
+    # conference: IEEE InternationalConference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2603.23132
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://interdyad.github.io/
+    bibtex: ./assets/bib/interdyad.txt
+    # notes: Oral Presentation
+    image: ./assets/img/pipe_interdyad.png
 
   - title: "Multi-Scale Occ: 4th Place Solution for CVPR 2023 3D Occupancy Prediction Challenge"
     authors: <strong>Yangyang Ding*</strong>, <strong>Luying Huang*</strong>, Jiachen Zhong (*Equal Contribution)
