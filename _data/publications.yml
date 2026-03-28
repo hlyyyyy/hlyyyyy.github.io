@@ -31,7 +31,7 @@ main:
     # conference: IEEE InternationalConference on Computer Vision <strong>(ICCV)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2603.23132
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://interdyad.github.io
+    page: https://interdyad.github.io/
     bibtex: ./assets/bib/interdyad.txt
     # notes: Oral Presentation
     image: ./assets/img/pipe_interdyad.png
