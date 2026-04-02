@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Luying Huang"
-description              : "Researcher at Baidu VIS working on human video synthesis, co-speech gesture generation, and autonomous driving."
+description              : "Researcher at Baidu AMU working on human video synthesis, co-speech gesture generation, and autonomous driving."
 repository               : "hlyyyyy/hlyyyyy.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,9 +23,9 @@ baidu_site_verification  :
 author:
   name             : "Luying Huang"
   avatar           : "images/luying-huang.jpg"
-  bio              : "Researcher, Baidu VIS"
+  bio              : "Researcher, Baidu AMU"
   location         : "China"
-  employer         : "Baidu VIS"
+  employer         : "Baidu AMU"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=5XvGCr0AAAAJ&hl=zh-CN"
   email            : "huangluying110@163.com"

@@ -10,13 +10,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a researcher at Baidu VIS. I received my B.S. and M.S. degrees from Tongji University, School of Automotive Engineering.
+I am currently a researcher at Baidu AMU. I received my B.S. and M.S. degrees from Tongji University, School of Automotive Engineering.
 
-Since 2024, I have been working at the Department of Computer Vision Technology (VIS), Baidu Inc., working closely with [Hang Zhou](https://hangz-nju-cuhk.github.io) and [Kaisiyuan Wang](https://unibruce.github.io) on audio- and video-driven high-fidelity and efficient human video synthesis techniques.
+Since 2024, I have been working at Baidu AMU, where I collaborate closely with [Hang Zhou](https://hangz-nju-cuhk.github.io) and [Kaisiyuan Wang](https://unibruce.github.io) on high-fidelity and efficient human-centric video generation, with a particular focus on audio-driven and video-driven synthesis.
 
 Previously, I worked at the Intelligent Driving Group (IDG), Baidu Inc., on end-to-end autonomous driving with [Xiaoqing Ye](https://shuluoshu.github.io/) and [Yifu Zhang](https://ifzhang.github.io/).
 
-My research interests include human-centric generation, co-speech gesture synthesis, human video synthesis, object-centric scene generation, and end-to-end autonomous driving.
+My research interests lie in human-centric generation, co-speech gesture synthesis, human video synthesis, and compositional video generation.
 
 # 🔥 News
 - *2025.07*: GestureHYDRA was accepted to ICCV 2025.
@@ -36,7 +36,19 @@ My research interests include human-centric generation, co-speech gesture synthe
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/display.png' alt="DISPLAY" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/oneshot.png' alt="ONE-SHOT" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ONE-SHOT: Compositional Human-Environment Video Synthesis via Spatial-Decoupled Motion Injection and Hybrid Context Integration](https://arxiv.org/pdf/2604.01043)
+
+Fengyuan Yang, **Luying Huang**†, **Jiazhi Guan**\*, Quanwei Yang, Dongwei Pan, Jianglin Fu, Haocheng Feng, Wei He, Kaisiyuan Wang, **Hang Zhou**\*, Angela Yao
+
+[\[Project Page\]](https://martayang.github.io/ONE-SHOT/) [\[BibTeX\]](/assets/bib/oneshot.txt)
+- arXiv preprint. *† Project leader. \* Corresponding authors.*
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/display.png' alt="DISPLAY" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DISPLAY: Directable Human-Object Interaction Video Generation via Sparse Motion Guidance and Multi-Task Auxiliary](https://arxiv.org/pdf/2603.09883)
@@ -48,7 +60,7 @@ Jiazhi Guan*, Quanwei Yang*, Luying Huang, Junhao Liang, Borong Liang, Haocheng 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/interdyad.png' alt="InterDyad" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/interdyad.png' alt="InterDyad" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [InterDyad: Interactive Dyadic Speech-to-Video Generation by Querying Intermediate Visual Guidance](https://arxiv.org/pdf/2603.23132)
@@ -80,7 +92,7 @@ Dongwei Pan, Longwei Guo, Jiazhi Guan, Luying Huang, Yiding Li, Haojie Liu, Haoc
 - *Tongji University*, School of Automotive Engineering, B.S. and M.S.
 
 # 💼 Experiences
-- *2024. - Present*, Researcher, Department of Computer Vision Technology (VIS), Baidu Inc.
+- *2024. - Present*, Researcher, Baidu AMU.
 - *Previously*, Intelligent Driving Group (IDG), Baidu Inc.
 
 # 🛠 Selected Projects

@@ -12,6 +12,13 @@ main:
     # notes: Oral Presentation
     image: ./assets/img/pipeline_iccv.png
 
+  - title: "ONE-SHOT: Compositional Human-Environment Video Synthesis via Spatial-Decoupled Motion Injection and Hybrid Context Integration"
+    authors: Fengyuan Yang, <strong>Luying Huang†</strong>, <strong>Jiazhi Guan*</strong>, Quanwei Yang, Dongwei Pan, Jianglin Fu, Haocheng Feng, Wei He, Kaisiyuan Wang, <strong>Hang Zhou*</strong>, Angela Yao (†Project Leader, *Corresponding Author)
+    pdf: https://arxiv.org/pdf/2604.01043
+    page: https://martayang.github.io/ONE-SHOT/
+    bibtex: ./assets/bib/oneshot.txt
+    image: ./assets/img/oneshot.png
+
   - title: "DISPLAY: Directable Human-Object Interaction Video Generation via Sparse Motion Guidance and Multi-Task Auxiliary"
     authors: Jiazhi Guan*, Quanwei Yang*, Luying Huang, Junhao Liang, Borong Liang, Haocheng Feng, Wei He, Kaisiyuan Wang†, Hang Zhou†, Jingdong Wang (*Equal Contribution, †Corresponding Author)
     # <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
