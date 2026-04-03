@@ -12,7 +12,7 @@ redirect_from:
 
 I am currently a researcher at Baidu AMU. I received my B.S. and M.S. degrees from Tongji University, School of Automotive Engineering.
 
-Since 2024, I have been working at Baidu AMU, where I collaborate closely with [Hang Zhou](https://hangz-nju-cuhk.github.io) and [Kaisiyuan Wang](https://unibruce.github.io) on high-fidelity and efficient human-centric video generation, with a particular focus on audio-driven and video-driven synthesis.
+Since 2024, I have been working at Baidu VIS(now AMU), where I collaborate closely with [Hang Zhou](https://hangz-nju-cuhk.github.io) and [Kaisiyuan Wang](https://unibruce.github.io) on high-fidelity and efficient human-centric video generation, with a particular focus on audio-driven and video-driven synthesis.
 
 Previously, I worked at the Intelligent Driving Group (IDG), Baidu Inc., on end-to-end autonomous driving with [Xiaoqing Ye](https://shuluoshu.github.io/) and [Yifu Zhang](https://ifzhang.github.io/).
 
