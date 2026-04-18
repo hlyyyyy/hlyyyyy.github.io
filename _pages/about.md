@@ -31,7 +31,7 @@ My research interests lie in human-centric generation, co-speech gesture synthes
 
 **Quanwei Yang***, **Luying Huang***, **Kaisiyuan Wang**†, Jiazhi Guan, Shengyi He, Fengluo Li, Hang Zhou, Lingyun Yu, Yingying Li, Haocheng Feng, **Hongtao Xie**†
 
-[\[Project Page\]](https://mumuwei.github.io/GestureHYDRA/) [\[BibTeX\]](/assets/bib/gesturehydra.txt)
+[\[Project Page\]](https://mumuwei.github.io/GestureHYDRA/) [\[Code\]](https://github.com/hlyyyyy/GestureHydra) [\[BibTeX\]](/assets/bib/gesturehydra.txt)
 - ICCV 2025. *Equal contribution. † Corresponding author.*
 </div>
 </div>

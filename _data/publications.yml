@@ -6,7 +6,7 @@ main:
     conference_short: ICCV
     conference: IEEE InternationalConference on Computer Vision <strong>(ICCV)</strong>, 2025.
     pdf: https://www.arxiv.org/pdf/2507.22731
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    code: https://github.com/hlyyyyy/GestureHydra
     page: https://mumuwei.github.io/GestureHYDRA/
     bibtex: ./assets/bib/gesturehydra.txt
     # notes: Oral Presentation
