@@ -10,13 +10,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a researcher at Baidu AMU. I received my B.S. and M.S. degrees from Tongji University, School of Automotive Engineering.
+I am currently a researcher at Morphi Robotics. I received my B.S. and M.S. degrees from Tongji University, School of Automotive Engineering.
 
-Since 2024, I have been working at Baidu VIS(now AMU), where I collaborate closely with [Hang Zhou](https://hangz-nju-cuhk.github.io) and [Kaisiyuan Wang](https://unibruce.github.io) on high-fidelity and efficient human-centric video generation, with a particular focus on audio-driven and video-driven synthesis.
+Starting in 2024, I worked at Baidu VIS (now AMU), where I collaborated closely with [Hang Zhou](https://hangz-nju-cuhk.github.io) and [Kaisiyuan Wang](https://unibruce.github.io) on high-fidelity and efficient human-centric video generation, with a particular focus on audio-driven and video-driven synthesis.
 
-Previously, I worked at the Intelligent Driving Group (IDG), Baidu Inc., on end-to-end autonomous driving with [Xiaoqing Ye](https://shuluoshu.github.io/) and [Yifu Zhang](https://ifzhang.github.io/).
+Before that, I worked at the Intelligent Driving Group (IDG), Baidu Inc., on end-to-end autonomous driving with [Xiaoqing Ye](https://shuluoshu.github.io/) and [Yifu Zhang](https://ifzhang.github.io/).
 
-My research interests lie in human-centric generation, co-speech gesture synthesis, human video synthesis, and compositional video generation.
+My research interests include embodied AI and robot learning, with a focus on robot brains: vision-language-action (VLA) models, world models, and reasoning and planning for robotics. I am also interested in human-centric generation, co-speech gesture synthesis, human video synthesis, and compositional video generation.
 
 # 🔥 News
 - *2025.07*: GestureHYDRA was accepted to ICCV 2025.
@@ -92,7 +92,8 @@ Dongwei Pan, Longwei Guo, Jiazhi Guan, Luying Huang, Yiding Li, Haojie Liu, Haoc
 - *Tongji University*, School of Automotive Engineering, B.S. and M.S.
 
 # 💼 Experiences
-- *2024. - Present*, Researcher, Baidu AMU.
+- *Current*, Researcher, Morphi Robotics.
+- *Previously*, Researcher, Baidu AMU (joined in 2024).
 - *Previously*, Intelligent Driving Group (IDG), Baidu Inc.
 
 # 🛠 Selected Projects

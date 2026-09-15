@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Luying Huang"
-description              : "Researcher at Baidu AMU working on human video synthesis, co-speech gesture generation, and autonomous driving."
+description              : "Researcher at Morphi Robotics with interests in embodied AI, robot learning, and human-centric generation."
 repository               : "hlyyyyy/hlyyyyy.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,9 +23,9 @@ baidu_site_verification  :
 author:
   name             : "Luying Huang"
   avatar           : "images/luying-huang.jpg"
-  bio              : "Researcher, Baidu AMU"
+  bio              : "Researcher, Morphi Robotics"
   location         : "China"
-  employer         : "Baidu AMU"
+  employer         : "Morphi Robotics"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=5XvGCr0AAAAJ&hl=zh-CN"
   email            : "huangluying110@163.com"
