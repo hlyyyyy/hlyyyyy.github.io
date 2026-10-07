@@ -19,6 +19,7 @@ Before that, I worked at the Intelligent Driving Group (IDG), Baidu Inc., on end
 My research interests include embodied AI and robot learning, with a focus on robot brains: vision-language-action (VLA) models, world models, and reasoning and planning for robotics. I am also interested in human-centric generation, co-speech gesture synthesis, human video synthesis, and compositional video generation.
 
 # 🔥 News
+- *2026.09*: ONE-SHOT was accepted to NeurIPS 2026 (Poster).
 - *2025.07*: GestureHYDRA was accepted to ICCV 2025.
 - *2023.06*: We won 4th place in the CVPR 2023 3D Occupancy Prediction Challenge.
 
@@ -36,7 +37,7 @@ My research interests include embodied AI and robot learning, with a focus on ro
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/oneshot.png' alt="ONE-SHOT" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/oneshot.png' alt="ONE-SHOT" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ONE-SHOT: Compositional Human-Environment Video Synthesis via Spatial-Decoupled Motion Injection and Hybrid Context Integration](https://arxiv.org/pdf/2604.01043)
@@ -44,7 +45,7 @@ My research interests include embodied AI and robot learning, with a focus on ro
 Fengyuan Yang, **Luying Huang**†, **Jiazhi Guan**\*, Quanwei Yang, Dongwei Pan, Jianglin Fu, Haocheng Feng, Wei He, Kaisiyuan Wang, **Hang Zhou**\*, Angela Yao
 
 [\[Project Page\]](https://martayang.github.io/ONE-SHOT/) [\[BibTeX\]](/assets/bib/oneshot.txt)
-- arXiv preprint. *† Project leader. \* Corresponding authors.*
+- Accepted at NeurIPS 2026 (Poster). *† Project leader. \* Corresponding authors.*
 </div>
 </div>
 
