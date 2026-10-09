@@ -15,6 +15,7 @@ main:
   - title: "ONE-SHOT: Compositional Human-Environment Video Synthesis via Spatial-Decoupled Motion Injection and Hybrid Context Integration"
     authors: Fengyuan Yang, <strong>Luying Huang†</strong>, <strong>Jiazhi Guan*</strong>, Quanwei Yang, Dongwei Pan, Jianglin Fu, Haocheng Feng, Wei He, Kaisiyuan Wang, <strong>Hang Zhou*</strong>, Angela Yao (†Project Leader, *Corresponding Author)
     pdf: https://arxiv.org/pdf/2604.01043
+    code: https://github.com/MartaYang/ONE-SHOT-code
     page: https://martayang.github.io/ONE-SHOT/
     bibtex: ./assets/bib/oneshot.txt
     image: ./assets/img/oneshot.png

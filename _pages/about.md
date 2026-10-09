@@ -44,7 +44,7 @@ My research interests include embodied AI and robot learning, with a focus on ro
 
 Fengyuan Yang, **Luying Huang**†, **Jiazhi Guan**\*, Quanwei Yang, Dongwei Pan, Jianglin Fu, Haocheng Feng, Wei He, Kaisiyuan Wang, **Hang Zhou**\*, Angela Yao
 
-[\[Project Page\]](https://martayang.github.io/ONE-SHOT/) [\[BibTeX\]](/assets/bib/oneshot.txt)
+[\[Project Page\]](https://martayang.github.io/ONE-SHOT/) [\[Code\]](https://github.com/MartaYang/ONE-SHOT-code) [\[BibTeX\]](/assets/bib/oneshot.txt)
 - Accepted at NeurIPS 2026 (Poster). *† Project leader. \* Corresponding authors.*
 </div>
 </div>
